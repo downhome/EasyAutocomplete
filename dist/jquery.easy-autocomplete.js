@@ -1,11 +1,4 @@
-/*
- * easy-autocomplete
- * jQuery plugin for autocompletion
- * 
- * @author Łukasz Pawełczak (http://github.com/pawelczak)
- * @version 1.4.3
- * Copyright  License: 
- */
+import jQuery from "jquery";
 
 /*
  * EasyAutocomplete - Configuration
